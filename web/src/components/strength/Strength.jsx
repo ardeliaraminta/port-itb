@@ -3,7 +3,7 @@ import './strength.css'
 
 const Strength = () => {
   return (
-    <div>Kekuatan Kami</div>
+   <section id = 'strength'> Kekuatan Kami </section>
   )
 }
 

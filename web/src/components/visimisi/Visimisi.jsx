@@ -2,7 +2,7 @@ import React from 'react'
 
 const Visimisi = () => {
   return (
-    <div>Visi and Misi</div>
+    <section id='visimisi'> Visi and Misi</section>
   )
 }
 
